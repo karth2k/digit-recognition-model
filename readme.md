@@ -1,0 +1,1 @@
+In this project I wanted to create my first neural network in which it identifies hand written digits. I will be trying to code through using the TensorFlow library as well as doing the project all over again in PyTorch in order to get proficient with it. For this you will need to install the opencv-python, matplotlib, numpy, and tensorflow packages.

@@ -1,1 +1,0 @@
-#digit recognition ml project
