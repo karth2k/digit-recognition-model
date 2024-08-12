@@ -5,7 +5,6 @@ In this project I wanted to create my first neural network in which it identifie
 STEPS:
 1. Install the required packages into your IDE using the following command in your terminal without the quotations "pip install tensorflow opencv-python numpy matplotlib"
 2. Download the project into a common folder and open it in your IDE
-3. Run the training_recognition.py file to train the model, this should save the model inside the common folder and print the loss and accuracy, this can be played around with messing around with the number of epochs
-4. Draw some single digit numbers ranging from 0 to 9 whether it be through MS Paint or by hand but make sure the size of the image is a 28 by 28 pixel.
-5. Put the images in the numbers folder
-6. Run the digit_recognition.py file and see if the models guess on your drawing is correct.
+3. Draw some single digit numbers ranging from 0 to 9 whether it be through MS Paint or by hand but make sure the size of the image is a 28 by 28 pixel.
+4. Put the images in the numbers folder
+5. Run the digit_recognition.py file and see if the models guess on your drawing is correct, this will inturn train the model. In the training_recognition.py file you can mess with the number of epochs. After the model is trained and saved, you can comment out the code in training_recognition.py and proceed to add more images if needed.

@@ -1,5 +1,5 @@
 """
-This project aims to identify handwritten digits using a neural network coded on the TensorFlow python library.
+This project aims to identify handwritten digits using a neural network coded on the TensorFlow/Keras python library.
 See the readme.md file for instructions on how to use this.
 """
 
@@ -7,8 +7,6 @@ See the readme.md file for instructions on how to use this.
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-import os
-import cv2
 import keras
 from keras import layers
 
